@@ -1,10 +1,20 @@
 body {
-    background: #CCCCCC
+    background: #bfdabb
+}
+
+h1 {
+    text-align: center;
 }
 
 p {
     text-align: center;  
 }
+
+strong{
+    color: rgb(72, 133, 48);
+}
+ 
+
 
  
 
