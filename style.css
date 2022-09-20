@@ -14,12 +14,13 @@ h2 {
     text-align: center;
 }
 
-ul {
-    display: inline-block;
-}
 
 h3 {
     text-align: center;
+}
+
+ul {
+    display: inline-block;
 }
 
 .imagemlogo {
