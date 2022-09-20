@@ -2,7 +2,7 @@ body {
     background: #72a06b
 }
 
-#banner5.jpg {
+.banner5.jpg {
     width: 100%;
 }
 
@@ -16,6 +16,10 @@ h2 {
 
 h3 {
     text-align: center;
+}
+
+.imagemlogo {
+    width: 100%;
 }
 
 p {
