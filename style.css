@@ -20,14 +20,14 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: black;
+    color: rgb(6, 114, 33);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;    
  }
 
 nav a:hover {
-    color: rgb(255, 136, 0);
+    color: rgb(33, 146, 5);
     text-decoration: underline;
 }
 
@@ -46,7 +46,7 @@ h1 {
     font-size: 40px;
     letter-spacing: 3.6px;
     word-spacing: 0px;
-    color: #000000;
+    color: rgb(6, 114, 33);
     font-weight: 400;
     text-decoration: none;
     font-style: normal;
