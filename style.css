@@ -1,8 +1,8 @@
 body {
-    background: #15640A;
-    background: -moz-linear-gradient(topo, #15640A 0%, #1C951D 50%, #15640A 100%);
-    background: -webkit-linear-gradient(topo, #15640A 0%, #1C951D 50%, #15640A 100%);
-    background: linear-gradient(to right, #15640A 0%, #1C951D 50%, #15640A 100%);
+    background: #0F4607;
+    background: -moz-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    background: -webkit-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    background: linear-gradient(to right, #0F4607 0%, #00882A 50%, #0F4607 100%);
 }
 
 /*NAVEGAÇÃO ENTRE PAGINAS*/
