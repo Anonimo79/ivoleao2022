@@ -5,10 +5,16 @@ header {
     background: linear-gradient(to right, #0F4607 0%, #00882A 50%, #0F4607 100%);
 }
 
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
 nav {
     position: absolute;
-    top: 30px;
-    right: 30px;
+    top: 110px;
+    right: 0;
 }
 
 nav li {
