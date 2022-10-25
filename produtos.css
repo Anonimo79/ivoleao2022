@@ -40,10 +40,9 @@ nav a {
 .produtos li {
     display: inline-block;
     text-align: center;
-    width: 30%;
     vertical-align: top;
-    margin: 0 1.5%;
-    padding: 30px 20px;
+    margin: 0 1.0%;
+    padding: 30px 4px;
     box-sizing: border-box;
     border-color: #00882A;
     border-width: 2px;
