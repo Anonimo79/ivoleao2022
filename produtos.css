@@ -42,6 +42,7 @@ nav a {
     text-align: center;
     width: 33%;
     vertical-align: top;
+    background: #0F4607;
 }
 
 .produtos h2 {
@@ -49,7 +50,13 @@ nav a {
     font-weight: bold;
 }
 
+.produto-descriçao {
+    font-size: 18px;
+
+}
+
 .produto-preço {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
 }
+
