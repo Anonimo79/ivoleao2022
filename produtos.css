@@ -83,6 +83,9 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url(rodape0000.jpg) ;
+    padding: 20px;
+    background: -moz-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    background: -webkit-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    background: linear-gradient(to right, #0F4607 0%, #00882A 50%, #0F4607 100%);
 }
 
