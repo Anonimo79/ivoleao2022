@@ -56,12 +56,12 @@ nav a:hover {
 }
 
 .produtos li:hover {
-    border-color: #0F4607;
+    border-color: #25b60f;
 
 }
 
 .produtos li:hover h2 {
-    font-size: 28px;
+    font-size: 34px;
 }
 
 .produtos h2 {
