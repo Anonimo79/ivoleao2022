@@ -11,7 +11,7 @@ body {
 }
 
 .caixa {
-    position: fixed;
+    position: sticky;
     width: 400px;
     margin: 0 auto;
 }
