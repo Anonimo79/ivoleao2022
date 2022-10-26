@@ -18,6 +18,8 @@ body {
     position: relative;
     width: 900px;
     margin: 0 auto;
+    -webkit-box-shadow: 2px 12px 21px 5px rgba(0,26,1,0.81); 
+    box-shadow: 2px 12px 21px 5px rgba(0,26,1,0.81);
 }
 
 nav {
