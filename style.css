@@ -68,10 +68,6 @@ h2 {
 }
 
 
-h3 {
-    text-align: center;
-}
-
 ul {
     display: inline-block;
     vertical-align: top;
@@ -96,6 +92,18 @@ p {
 strong{
     color: rgb(137, 179, 147);
 }
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: -moz-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    background: -webkit-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    background: linear-gradient(to right, #0F4607 0%, #00882A 50%, #0F4607 100%);
+}
+
+.copyright {
+    color: rgb(137, 179, 147);
+    font-size: 13px;
 
 
  
