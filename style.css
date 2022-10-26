@@ -11,8 +11,7 @@ body {
 }
 
 .caixa {
-    text-align: center;
-    position: relative;
+    position: absolute;
     width: 400px;
     margin: 0 auto;
 }
