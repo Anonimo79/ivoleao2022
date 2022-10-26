@@ -89,3 +89,8 @@ footer {
     background: linear-gradient(to right, #0F4607 0%, #00882A 50%, #0F4607 100%);
 }
 
+.copyright {
+    color: rgb(137, 179, 147);
+    font-size: 13px;
+}
+
