@@ -102,8 +102,6 @@ footer {
     padding: 20px;
     background: -moz-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
     background: -webkit-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
-    -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
-    box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
     
 }
 
