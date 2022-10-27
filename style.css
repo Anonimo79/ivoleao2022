@@ -39,8 +39,7 @@ nav a:hover {
 .imagembanner23 {
     -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
     box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
-    width: 57%;
-    height: 570px
+    width: 100%;
 }
 
 .Principal {
@@ -79,8 +78,9 @@ ul {
 }
 
 .William {
-    width: 50%;
-    height: 600px;
+    width: 57%;
+    height: 570px;
+    
 }
 
 .bibliotecan {
