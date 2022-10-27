@@ -7,8 +7,10 @@ header {
 }
 
 body {
-    background: #093003;
-    
+    background: #00882A;
+    background: -moz-linear-gradient(topo, #00882A 0%, #0F4607 0%, #00882A 100%);
+    background: -webkit-linear-gradient(topo, #00882A 0%, #0F4607 0%, #00882A 100%);
+    background: linear-gradient(to right, #00882A 0%, #0F4607 0%, #00882A 100%);    
 }
 
 
@@ -110,7 +112,7 @@ nav a:hover {
     font-style: normal;
     font-variant: normal;
     text-transform: capitalize
-    
+
 }
 
 footer {
