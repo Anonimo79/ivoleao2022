@@ -85,6 +85,19 @@ form label, form legend {
     background: #02380b;
     transform: scale(1.2)
 }
+table {
+    margin: 20px 0 40px;
+}
+
+thead {
+    background: #0F4607;
+    color: rgb(137, 179, 147);
+}
+
+tbody {
+    background-color:#00882A ;
+    color: rgb(137, 179, 147);
+}
 
 footer {
     -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
