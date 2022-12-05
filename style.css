@@ -92,6 +92,11 @@ table {
 thead {
     background: #0F4607;
     color: rgb(137, 179, 147);
+    font-weight: bold;
+}
+
+td {
+    border: 1px solid #011f06;
 }
 
 tbody {
