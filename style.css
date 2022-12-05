@@ -70,6 +70,16 @@ form label, form legend {
 .enviar {
     width: 40%;
     padding: 15px 0;
+    background: #1c3b26;
+    color: rgb(137, 179, 147);
+    font-weight: bold;
+    font-size: 18px;
+    border: none
+    border-radius 5px;
+}
+
+.enviar:hover{
+    background: #1dd63c;
     
 }
 
