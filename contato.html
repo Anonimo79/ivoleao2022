@@ -29,17 +29,17 @@
                          <input type="text" id="nomesobrenome" class="imput-padrao" required>
 
                       <label for="Email">Email</label>
-                         <input type="text" id="Email" class="imput-padrao" required>
+                         <input type="text" id="Email" class="imput-padrao" required placeholder="seuemail@dominio.com">
 
                       <label for="telefone"> Telefone</label>
-                         <input type="text" id="Telefone" class="imput-padrao" required></imput>
+                         <input type="text" id="Telefone" class="imput-padrao" required placeholder="(XX) XXXXX-XXXX"></imput>
 
                       <label for="mensagem">Mensagem</label>
                         <textarea cols="70" rows="10" id="mensagem" 
                         class="input-padrao" required></textarea>
 
-                        <div>
-                            <p>Como prefere o nosso contato?</p>
+                        <fieldset>
+                            <legend>Como prefere o nosso contato?</legend>
                             <label for="radio-email">
                                 <input type="radio" name="contato" value="email" id="radio-email">
                                 Email
@@ -54,16 +54,16 @@
                                 <input type="radio" name="contato" value="whatsapp" id="radio-whatsapp">
                                 WhatsApp
                             </label>
-                        </div>
+                        </fieldset>
 
-                        <div>
-                            <p>Qual horário prefere ser atendido?</p>
+                        <fieldset>
+                            <legend>Qual horário prefere ser atendido?</legend>
                             <select>
                                 <option>Manhã</option>
                                 <option>Tarde</option>
                                 <option>Noite</option>
                             </select>
-                        </div>
+                        </fieldset>
 
                         <label class="checkbox">
                             <input type="checkbox">
