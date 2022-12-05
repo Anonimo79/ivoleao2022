@@ -70,7 +70,7 @@ form label, form legend {
 .enviar {
     width: 40%;
     padding: 15px 0;
-    background: #108800;
+    background: #02380b;
     color: rgb(137, 179, 147);
     font-weight: bold;
     font-size: 18px;
@@ -81,6 +81,7 @@ form label, form legend {
 }
 
 .enviar:hover{
+    background: #108800;
     background: #02380b;
     transform: scale(1.2)
 }
