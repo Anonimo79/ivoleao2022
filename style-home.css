@@ -11,14 +11,21 @@ body {
 }
 
 .caixa {
-    position: sticky;
-    width: 400px;
+    position: relative;
+    width: 900px;
     margin: 0 auto;
+    
+}
+
+nav {
+    position: absolute;
+    top: 250px;
+    right: 0;
 }
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
+    margin: 0 0 0 20px;
 }
 
 nav a {
@@ -26,8 +33,8 @@ nav a {
     color: rgb(137, 179, 147);
     font-weight: bold;
     font-size: 22px;
-    text-decoration: none;    
- }
+    text-decoration: none;
+}
 
 nav a:hover {
     color: rgb(11, 54, 1);
