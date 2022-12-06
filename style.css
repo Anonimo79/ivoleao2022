@@ -95,8 +95,9 @@ thead {
     font-weight: bold;
 }
 
-td {
+td, th {
     border: 1px solid #011f06;
+    padding: 8px 16px;
 }
 
 tbody {
