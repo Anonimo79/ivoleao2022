@@ -12,13 +12,13 @@ body {
 
 .caixa {
     position: sticky;
-    width: 40px;
+    width: 400px;
     margin: 0 auto;
 }
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
+    margin: 0 0 0 10px;
 }
 
 nav a {
