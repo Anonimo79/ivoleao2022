@@ -1,42 +1,24 @@
-header {
-    -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
-    box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
+body {
     background: #0F4607;
-    padding: 30px;
     background: -moz-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
     background: -webkit-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
     background: linear-gradient(to right, #0F4607 0%, #00882A 50%, #0F4607 100%);
 }
 
-body {
-    background: #00882A;
-    background: -moz-linear-gradient(topo, #00882A 0%, #0F4607 50%, #00882A 100%);
-    background: -webkit-linear-gradient(topo, #00882A 0%, #0F4607 50%, #00882A 100%);
-    background: linear-gradient(to right, #00882A 0%, #0F4607 50%, #00882A 100%);
-
-}
-
 /*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
-    padding: 1px 1px 1px;
+    padding: 20px 0;
 }
 
 .caixa {
     position: relative;
     width: 900px;
     margin: 0 auto;
-    
-}
-
-nav {
-    position: absolute;
-    top: 250px;
-    right: 0;
 }
 
 nav li {
     display: inline;
-    margin: 0 0 0 20px;
+    margin: 0 0 0 15px;
 }
 
 nav a {
@@ -44,8 +26,8 @@ nav a {
     color: rgb(137, 179, 147);
     font-weight: bold;
     font-size: 22px;
-    text-decoration: none;
-}
+    text-decoration: none;    
+ }
 
 nav a:hover {
     color: rgb(11, 54, 1);
@@ -115,14 +97,14 @@ strong{
 }
 
 footer {
-    -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
-    box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
+    
     text-align: center;
     padding: 20px;
     background: -moz-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
     background: -webkit-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
-    background: linear-gradient(to right, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    
 }
+
 .copyright {
     color: rgb(137, 179, 147);
     font-size: 17px;
