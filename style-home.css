@@ -7,7 +7,7 @@ body {
 
 /*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
-    padding: 20px 0;
+    padding: 2px 0;
 }
 
 .caixa {
@@ -18,7 +18,7 @@ body {
 
 nav li {
     display: inline;
-    margin: 0 0 0 5px;
+    margin: 0 0 0 15px;
 }
 
 nav a {
